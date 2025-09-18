@@ -1,0 +1,2 @@
+This code can be used to make a to-do list through interactive GUI of tkinter.
+It can be further improved via addition of file handling operations.

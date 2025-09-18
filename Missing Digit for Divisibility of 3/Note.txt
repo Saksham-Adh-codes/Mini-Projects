@@ -1,0 +1,2 @@
+It is a very direct code to find the missing digit from the number provided by the user.
+This code then finds the digit, which if digit is kept to the number, would be divisible by three.
